@@ -1,2 +1,2 @@
-# Resturent-Landing-Page
-Responsive Resturent landinng page
+# Restaurant-Landing-Page
+Responsive Restaurant landinng page
